@@ -8,6 +8,5 @@ public class TestMain {
 
         Book javaDummy = new Book("Java for Dummy", authors,19.99,99);
         System.out.println(javaDummy);
-
     }
 }
